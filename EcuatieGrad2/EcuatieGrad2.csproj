@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{2B1023CF-ABFE-460C-8B47-FB53D8EBC6A4}</ProjectGuid>
+    <ProjectGuid>{A9890949-9F3A-4C36-AA43-EC92F999E5E0}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Probleme</RootNamespace>
-    <AssemblyName>Probleme</AssemblyName>
+    <RootNamespace>EcuatieGrad2</RootNamespace>
+    <AssemblyName>EcuatieGrad2</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -36,8 +36,7 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Class1.cs" />
-    <Compile Include="Ex1.cs" />
+    <Compile Include="Ex2.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
