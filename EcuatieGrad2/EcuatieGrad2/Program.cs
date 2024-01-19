@@ -2,7 +2,7 @@
 
 namespace RezolvareEcuatieGradul2
 {
-    class Ex2
+    class Program
     {
         static void Main(string[] args)
         {

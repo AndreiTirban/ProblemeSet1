@@ -2,7 +2,7 @@
 
 namespace EcuatieGrad1
 {
-    class Ex1
+    class Program
     {
         static void Main()
         {
